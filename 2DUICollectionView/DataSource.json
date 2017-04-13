@@ -1,0 +1,1237 @@
+{
+    "Genre : Action": [
+                       {
+                       "season_id": 22,
+                       "genre": [
+                                 "Action",
+                                 "Action_pbHLdKT.png"
+                                 ],
+                       "about": "Scientific discovery turns into self-discovery when Jim Buckner's research to unlock immortality puts his daughter in the cross-hairs of a secret war. Suffering from a side-effect of his research, telekinesis, he discovers how far he'll go to get his daughter back--as far as it takes.",
+                       "is_purchased": true,
+                       "title": "DeNovo Syndrome",
+                       "cover_image": "",
+                       "author_id": 6,
+                       "is_live": false,
+                       "author_name": "David Mark Brown",
+                       "is_published": true
+                       },
+                       {
+                       "season_id": 16,
+                       "genre": [
+                                 "Action",
+                                 "Action_pbHLdKT.png"
+                                 ],
+                       "about": "About",
+                       "is_purchased": false,
+                       "title": "Fallen",
+                       "cover_image": "",
+                       "author_id": 4,
+                       "is_live": true,
+                       "author_name": "Vamshi",
+                       "is_published": false
+                       },
+                       {
+                       "season_id": 19,
+                       "genre": [
+                                 "Action",
+                                 "Action_pbHLdKT.png"
+                                 ],
+                       "about": "About",
+                       "is_purchased": false,
+                       "title": "Game of Thrones",
+                       "cover_image": "",
+                       "author_id": 4,
+                       "is_live": true,
+                       "author_name": "Vamshi",
+                       "is_published": false
+                       },
+                       {
+                       "season_id": 1,
+                       "genre": [
+                                 "Action",
+                                 "Action_pbHLdKT.png"
+                                 ],
+                       "about": "About Season",
+                       "is_purchased": true,
+                       "title": "Harry Potter",
+                       "cover_image": "",
+                       "author_id": 1,
+                       "is_live": false,
+                       "author_name": "Charan Teja",
+                       "is_published": true
+                       },
+                       {
+                       "season_id": 23,
+                       "genre": [
+                                 "Action",
+                                 "Action_pbHLdKT.png"
+                                 ],
+                       "about": "Three day’s hike into the White Cloud Mountains, six backpackers stumble across a terrifying site—a gladiator style death match between a grizzly bear and a bigfoot. Even more startling are the half-dozen bigfoot spectators. Before the panicked hikers get far, they’re intercepted by a band of militiamen who’ve been stalking the mighty bigfoot. While the militia seek to spark a violent war, the hikers scramble to survive what will become the most memorable backpacking trip of their lives.",
+                       "is_purchased": false,
+                       "title": "Hide Nor Hair",
+                       "cover_image": "",
+                       "author_id": 6,
+                       "is_live": true,
+                       "author_name": "David Mark Brown",
+                       "is_published": false
+                       },
+                       {
+                       "season_id": 6,
+                       "genre": [
+                                 "Action",
+                                 "Action_pbHLdKT.png"
+                                 ],
+                       "about": "About",
+                       "is_purchased": false,
+                       "title": "Lord of the Rings",
+                       "cover_image": "",
+                       "author_id": 1,
+                       "is_live": true,
+                       "author_name": "Charan Teja",
+                       "is_published": false
+                       },
+                       {
+                       "season_id": 13,
+                       "genre": [
+                                 "Action",
+                                 "Action_pbHLdKT.png"
+                                 ],
+                       "about": "CAR OR BAR???",
+                       "is_purchased": false,
+                       "title": "Rooms",
+                       "cover_image": "",
+                       "author_id": 1,
+                       "is_live": false,
+                       "author_name": "Charan Teja",
+                       "is_published": true
+                       },
+                       {
+                       "season_id": 9,
+                       "genre": [
+                                 "Action",
+                                 "Action_pbHLdKT.png"
+                                 ],
+                       "about": "Season",
+                       "is_purchased": false,
+                       "title": "The Book of Wonders",
+                       "cover_image": "",
+                       "author_id": 1,
+                       "is_live": true,
+                       "author_name": "Charan Teja",
+                       "is_published": false
+                       },
+                       {
+                       "season_id": 2,
+                       "genre": [
+                                 "Action",
+                                 "Action_pbHLdKT.png"
+                                 ],
+                       "about": "About the Season of Random guy",
+                       "is_purchased": false,
+                       "title": "The DaVinci Code",
+                       "cover_image": "",
+                       "author_id": 1,
+                       "is_live": false,
+                       "author_name": "Charan Teja",
+                       "is_published": true
+                       },
+                       {
+                       "season_id": 3,
+                       "genre": [
+                                 "Action",
+                                 "Action_pbHLdKT.png"
+                                 ],
+                       "about": "Season About",
+                       "is_purchased": false,
+                       "title": "World war Z",
+                       "cover_image": "",
+                       "author_id": 1,
+                       "is_live": false,
+                       "author_name": "Charan Teja",
+                       "is_published": true
+                       }
+                       ],
+    "Genre : Mystery": [
+                        {
+                        "season_id": 20,
+                        "genre": [
+                                  "Mystery",
+                                  "mystery.JPG"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "Green",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 1,
+                        "genre": [
+                                  "Mystery",
+                                  "mystery.JPG"
+                                  ],
+                        "about": "About Season",
+                        "is_purchased": true,
+                        "title": "Harry Potter",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": false,
+                        "author_name": "Charan Teja",
+                        "is_published": true
+                        },
+                        {
+                        "season_id": 18,
+                        "genre": [
+                                  "Mystery",
+                                  "mystery.JPG"
+                                  ],
+                        "about": "asdfbasd",
+                        "is_purchased": false,
+                        "title": "Leftovers",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 6,
+                        "genre": [
+                                  "Mystery",
+                                  "mystery.JPG"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "Lord of the Rings",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": true,
+                        "author_name": "Charan Teja",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 2,
+                        "genre": [
+                                  "Mystery",
+                                  "mystery.JPG"
+                                  ],
+                        "about": "About the Season of Random guy",
+                        "is_purchased": false,
+                        "title": "The DaVinci Code",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": false,
+                        "author_name": "Charan Teja",
+                        "is_published": true
+                        },
+                        {
+                        "season_id": 4,
+                        "genre": [
+                                  "Mystery",
+                                  "mystery.JPG"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "The Help",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": true,
+                        "author_name": "Charan Teja",
+                        "is_published": false
+                        }
+                        ],
+    "Author : David Mark Brown": [
+                                  {
+                                  "season_id": 22,
+                                  "genre": [
+                                            "Action",
+                                            "Action_pbHLdKT.png"
+                                            ],
+                                  "about": "Scientific discovery turns into self-discovery when Jim Buckner's research to unlock immortality puts his daughter in the cross-hairs of a secret war. Suffering from a side-effect of his research, telekinesis, he discovers how far he'll go to get his daughter back--as far as it takes.",
+                                  "is_purchased": true,
+                                  "title": "DeNovo Syndrome",
+                                  "cover_image": "",
+                                  "author_id": 6,
+                                  "is_live": false,
+                                  "author_name": "David Mark Brown",
+                                  "is_published": true
+                                  },
+                                  {
+                                  "season_id": 23,
+                                  "genre": [
+                                            "Action",
+                                            "Action_pbHLdKT.png"
+                                            ],
+                                  "about": "Three day’s hike into the White Cloud Mountains, six backpackers stumble across a terrifying site—a gladiator style death match between a grizzly bear and a bigfoot. Even more startling are the half-dozen bigfoot spectators. Before the panicked hikers get far, they’re intercepted by a band of militiamen who’ve been stalking the mighty bigfoot. While the militia seek to spark a violent war, the hikers scramble to survive what will become the most memorable backpacking trip of their lives.",
+                                  "is_purchased": false,
+                                  "title": "Hide Nor Hair",
+                                  "cover_image": "",
+                                  "author_id": 6,
+                                  "is_live": true,
+                                  "author_name": "David Mark Brown",
+                                  "is_published": false
+                                  }
+                                  ],
+    "Genre : Drama": [
+                      {
+                      "season_id": 8,
+                      "genre": [
+                                "Drama",
+                                "2657_xZ32WJE.jpg"
+                                ],
+                      "about": "About",
+                      "is_purchased": false,
+                      "title": "Amazon Adventure",
+                      "cover_image": "",
+                      "author_id": 1,
+                      "is_live": true,
+                      "author_name": "Charan Teja",
+                      "is_published": false
+                      },
+                      {
+                      "season_id": 5,
+                      "genre": [
+                                "Drama",
+                                "2657_xZ32WJE.jpg"
+                                ],
+                      "about": "About",
+                      "is_purchased": false,
+                      "title": "Divergent",
+                      "cover_image": "",
+                      "author_id": 1,
+                      "is_live": true,
+                      "author_name": "Charan Teja",
+                      "is_published": false
+                      },
+                      {
+                      "season_id": 1,
+                      "genre": [
+                                "Drama",
+                                "2657_xZ32WJE.jpg"
+                                ],
+                      "about": "About Season",
+                      "is_purchased": true,
+                      "title": "Harry Potter",
+                      "cover_image": "",
+                      "author_id": 1,
+                      "is_live": false,
+                      "author_name": "Charan Teja",
+                      "is_published": true
+                      },
+                      {
+                      "season_id": 15,
+                      "genre": [
+                                "Drama",
+                                "2657_xZ32WJE.jpg"
+                                ],
+                      "about": "smaple adsf",
+                      "is_purchased": false,
+                      "title": "Joy Ride",
+                      "cover_image": "",
+                      "author_id": 4,
+                      "is_live": true,
+                      "author_name": "Vamshi",
+                      "is_published": false
+                      },
+                      {
+                      "season_id": 18,
+                      "genre": [
+                                "Drama",
+                                "2657_xZ32WJE.jpg"
+                                ],
+                      "about": "asdfbasd",
+                      "is_purchased": false,
+                      "title": "Leftovers",
+                      "cover_image": "",
+                      "author_id": 4,
+                      "is_live": true,
+                      "author_name": "Vamshi",
+                      "is_published": false
+                      },
+                      {
+                      "season_id": 13,
+                      "genre": [
+                                "Drama",
+                                "2657_xZ32WJE.jpg"
+                                ],
+                      "about": "CAR OR BAR???",
+                      "is_purchased": false,
+                      "title": "Rooms",
+                      "cover_image": "",
+                      "author_id": 1,
+                      "is_live": false,
+                      "author_name": "Charan Teja",
+                      "is_published": true
+                      },
+                      {
+                      "season_id": 2,
+                      "genre": [
+                                "Drama",
+                                "2657_xZ32WJE.jpg"
+                                ],
+                      "about": "About the Season of Random guy",
+                      "is_purchased": false,
+                      "title": "The DaVinci Code",
+                      "cover_image": "",
+                      "author_id": 1,
+                      "is_live": false,
+                      "author_name": "Charan Teja",
+                      "is_published": true
+                      },
+                      {
+                      "season_id": 7,
+                      "genre": [
+                                "Drama",
+                                "2657_xZ32WJE.jpg"
+                                ],
+                      "about": "Season",
+                      "is_purchased": false,
+                      "title": "The Screaming Staircase",
+                      "cover_image": "",
+                      "author_id": 1,
+                      "is_live": true,
+                      "author_name": "Charan Teja",
+                      "is_published": false
+                      }
+                      ],
+    "Genre : History": [
+                        {
+                        "season_id": 8,
+                        "genre": [
+                                  "History",
+                                  "2767052_S8X6rv8.jpg"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "Amazon Adventure",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": true,
+                        "author_name": "Charan Teja",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 20,
+                        "genre": [
+                                  "History",
+                                  "2767052_S8X6rv8.jpg"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "Green",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 1,
+                        "genre": [
+                                  "History",
+                                  "2767052_S8X6rv8.jpg"
+                                  ],
+                        "about": "About Season",
+                        "is_purchased": true,
+                        "title": "Harry Potter",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": false,
+                        "author_name": "Charan Teja",
+                        "is_published": true
+                        },
+                        {
+                        "season_id": 6,
+                        "genre": [
+                                  "History",
+                                  "2767052_S8X6rv8.jpg"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "Lord of the Rings",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": true,
+                        "author_name": "Charan Teja",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 2,
+                        "genre": [
+                                  "History",
+                                  "2767052_S8X6rv8.jpg"
+                                  ],
+                        "about": "About the Season of Random guy",
+                        "is_purchased": false,
+                        "title": "The DaVinci Code",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": false,
+                        "author_name": "Charan Teja",
+                        "is_published": true
+                        },
+                        {
+                        "season_id": 10,
+                        "genre": [
+                                  "History",
+                                  "2767052_S8X6rv8.jpg"
+                                  ],
+                        "about": "Hello hi, this a random text about the season. some random text. sdfasd sadfsadf sdafsadf",
+                        "is_purchased": false,
+                        "title": "The End of Infinity",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": true,
+                        "author_name": "Charan Teja",
+                        "is_published": false
+                        }
+                        ],
+    "Genre : Romance": [
+                        {
+                        "season_id": 5,
+                        "genre": [
+                                  "Romance",
+                                  "Romance_KAA3cvo.png"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "Divergent",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": true,
+                        "author_name": "Charan Teja",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 19,
+                        "genre": [
+                                  "Romance",
+                                  "Romance_KAA3cvo.png"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "Game of Thrones",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 20,
+                        "genre": [
+                                  "Romance",
+                                  "Romance_KAA3cvo.png"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "Green",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 1,
+                        "genre": [
+                                  "Romance",
+                                  "Romance_KAA3cvo.png"
+                                  ],
+                        "about": "About Season",
+                        "is_purchased": true,
+                        "title": "Harry Potter",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": false,
+                        "author_name": "Charan Teja",
+                        "is_published": true
+                        },
+                        {
+                        "season_id": 15,
+                        "genre": [
+                                  "Romance",
+                                  "Romance_KAA3cvo.png"
+                                  ],
+                        "about": "smaple adsf",
+                        "is_purchased": false,
+                        "title": "Joy Ride",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 6,
+                        "genre": [
+                                  "Romance",
+                                  "Romance_KAA3cvo.png"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "Lord of the Rings",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": true,
+                        "author_name": "Charan Teja",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 13,
+                        "genre": [
+                                  "Romance",
+                                  "Romance_KAA3cvo.png"
+                                  ],
+                        "about": "CAR OR BAR???",
+                        "is_purchased": false,
+                        "title": "Rooms",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": false,
+                        "author_name": "Charan Teja",
+                        "is_published": true
+                        },
+                        {
+                        "season_id": 7,
+                        "genre": [
+                                  "Romance",
+                                  "Romance_KAA3cvo.png"
+                                  ],
+                        "about": "Season",
+                        "is_purchased": false,
+                        "title": "The Screaming Staircase",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": true,
+                        "author_name": "Charan Teja",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 17,
+                        "genre": [
+                                  "Romance",
+                                  "Romance_KAA3cvo.png"
+                                  ],
+                        "about": "Abourt",
+                        "is_purchased": false,
+                        "title": "The Winter People",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 3,
+                        "genre": [
+                                  "Romance",
+                                  "Romance_KAA3cvo.png"
+                                  ],
+                        "about": "Season About",
+                        "is_purchased": false,
+                        "title": "World war Z",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": false,
+                        "author_name": "Charan Teja",
+                        "is_published": true
+                        }
+                        ],
+    "Author : Vamshi": [
+                        {
+                        "season_id": 14,
+                        "genre": [
+                                  "Fiction",
+                                  "Sci-Fi_89W7Qxi.png"
+                                  ],
+                        "about": "sample about the season",
+                        "is_purchased": false,
+                        "title": "Allegiant",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 16,
+                        "genre": [
+                                  "Action",
+                                  "Action_pbHLdKT.png"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "Fallen",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 19,
+                        "genre": [
+                                  "Fiction",
+                                  "Sci-Fi_89W7Qxi.png"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "Game of Thrones",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 20,
+                        "genre": [
+                                  "Mystery",
+                                  "mystery.JPG"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "Green",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 15,
+                        "genre": [
+                                  "Drama",
+                                  "2657_xZ32WJE.jpg"
+                                  ],
+                        "about": "smaple adsf",
+                        "is_purchased": false,
+                        "title": "Joy Ride",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 18,
+                        "genre": [
+                                  "Mystery",
+                                  "mystery.JPG"
+                                  ],
+                        "about": "asdfbasd",
+                        "is_purchased": false,
+                        "title": "Leftovers",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 17,
+                        "genre": [
+                                  "Fiction",
+                                  "Sci-Fi_89W7Qxi.png"
+                                  ],
+                        "about": "Abourt",
+                        "is_purchased": false,
+                        "title": "The Winter People",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        }
+                        ],
+    "Genre : Adventure": [
+                          {
+                          "season_id": 14,
+                          "genre": [
+                                    "Adventure",
+                                    "Adventure_jQkEkNz.png"
+                                    ],
+                          "about": "sample about the season",
+                          "is_purchased": false,
+                          "title": "Allegiant",
+                          "cover_image": "",
+                          "author_id": 4,
+                          "is_live": true,
+                          "author_name": "Vamshi",
+                          "is_published": false
+                          },
+                          {
+                          "season_id": 22,
+                          "genre": [
+                                    "Adventure",
+                                    "Adventure_jQkEkNz.png"
+                                    ],
+                          "about": "Scientific discovery turns into self-discovery when Jim Buckner's research to unlock immortality puts his daughter in the cross-hairs of a secret war. Suffering from a side-effect of his research, telekinesis, he discovers how far he'll go to get his daughter back--as far as it takes.",
+                          "is_purchased": true,
+                          "title": "DeNovo Syndrome",
+                          "cover_image": "",
+                          "author_id": 6,
+                          "is_live": false,
+                          "author_name": "David Mark Brown",
+                          "is_published": true
+                          },
+                          {
+                          "season_id": 16,
+                          "genre": [
+                                    "Adventure",
+                                    "Adventure_jQkEkNz.png"
+                                    ],
+                          "about": "About",
+                          "is_purchased": false,
+                          "title": "Fallen",
+                          "cover_image": "",
+                          "author_id": 4,
+                          "is_live": true,
+                          "author_name": "Vamshi",
+                          "is_published": false
+                          },
+                          {
+                          "season_id": 1,
+                          "genre": [
+                                    "Adventure",
+                                    "Adventure_jQkEkNz.png"
+                                    ],
+                          "about": "About Season",
+                          "is_purchased": true,
+                          "title": "Harry Potter",
+                          "cover_image": "",
+                          "author_id": 1,
+                          "is_live": false,
+                          "author_name": "Charan Teja",
+                          "is_published": true
+                          },
+                          {
+                          "season_id": 23,
+                          "genre": [
+                                    "Adventure",
+                                    "Adventure_jQkEkNz.png"
+                                    ],
+                          "about": "Three day’s hike into the White Cloud Mountains, six backpackers stumble across a terrifying site—a gladiator style death match between a grizzly bear and a bigfoot. Even more startling are the half-dozen bigfoot spectators. Before the panicked hikers get far, they’re intercepted by a band of militiamen who’ve been stalking the mighty bigfoot. While the militia seek to spark a violent war, the hikers scramble to survive what will become the most memorable backpacking trip of their lives.",
+                          "is_purchased": false,
+                          "title": "Hide Nor Hair",
+                          "cover_image": "",
+                          "author_id": 6,
+                          "is_live": true,
+                          "author_name": "David Mark Brown",
+                          "is_published": false
+                          },
+                          {
+                          "season_id": 9,
+                          "genre": [
+                                    "Adventure",
+                                    "Adventure_jQkEkNz.png"
+                                    ],
+                          "about": "Season",
+                          "is_purchased": false,
+                          "title": "The Book of Wonders",
+                          "cover_image": "",
+                          "author_id": 1,
+                          "is_live": true,
+                          "author_name": "Charan Teja",
+                          "is_published": false
+                          },
+                          {
+                          "season_id": 4,
+                          "genre": [
+                                    "Adventure",
+                                    "Adventure_jQkEkNz.png"
+                                    ],
+                          "about": "About",
+                          "is_purchased": false,
+                          "title": "The Help",
+                          "cover_image": "",
+                          "author_id": 1,
+                          "is_live": true,
+                          "author_name": "Charan Teja",
+                          "is_published": false
+                          },
+                          {
+                          "season_id": 7,
+                          "genre": [
+                                    "Adventure",
+                                    "Adventure_jQkEkNz.png"
+                                    ],
+                          "about": "Season",
+                          "is_purchased": false,
+                          "title": "The Screaming Staircase",
+                          "cover_image": "",
+                          "author_id": 1,
+                          "is_live": true,
+                          "author_name": "Charan Teja",
+                          "is_published": false
+                          },
+                          {
+                          "season_id": 3,
+                          "genre": [
+                                    "Adventure",
+                                    "Adventure_jQkEkNz.png"
+                                    ],
+                          "about": "Season About",
+                          "is_purchased": false,
+                          "title": "World war Z",
+                          "cover_image": "",
+                          "author_id": 1,
+                          "is_live": false,
+                          "author_name": "Charan Teja",
+                          "is_published": true
+                          }
+                          ],
+    "Genre : Fiction": [
+                        {
+                        "season_id": 14,
+                        "genre": [
+                                  "Fiction",
+                                  "Sci-Fi_89W7Qxi.png"
+                                  ],
+                        "about": "sample about the season",
+                        "is_purchased": false,
+                        "title": "Allegiant",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 5,
+                        "genre": [
+                                  "Fiction",
+                                  "Sci-Fi_89W7Qxi.png"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "Divergent",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": true,
+                        "author_name": "Charan Teja",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 19,
+                        "genre": [
+                                  "Fiction",
+                                  "Sci-Fi_89W7Qxi.png"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "Game of Thrones",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 1,
+                        "genre": [
+                                  "Fiction",
+                                  "Sci-Fi_89W7Qxi.png"
+                                  ],
+                        "about": "About Season",
+                        "is_purchased": true,
+                        "title": "Harry Potter",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": false,
+                        "author_name": "Charan Teja",
+                        "is_published": true
+                        },
+                        {
+                        "season_id": 18,
+                        "genre": [
+                                  "Fiction",
+                                  "Sci-Fi_89W7Qxi.png"
+                                  ],
+                        "about": "asdfbasd",
+                        "is_purchased": false,
+                        "title": "Leftovers",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 2,
+                        "genre": [
+                                  "Fiction",
+                                  "Sci-Fi_89W7Qxi.png"
+                                  ],
+                        "about": "About the Season of Random guy",
+                        "is_purchased": false,
+                        "title": "The DaVinci Code",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": false,
+                        "author_name": "Charan Teja",
+                        "is_published": true
+                        },
+                        {
+                        "season_id": 10,
+                        "genre": [
+                                  "Fiction",
+                                  "Sci-Fi_89W7Qxi.png"
+                                  ],
+                        "about": "Hello hi, this a random text about the season. some random text. sdfasd sadfsadf sdafsadf",
+                        "is_purchased": false,
+                        "title": "The End of Infinity",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": true,
+                        "author_name": "Charan Teja",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 4,
+                        "genre": [
+                                  "Fiction",
+                                  "Sci-Fi_89W7Qxi.png"
+                                  ],
+                        "about": "About",
+                        "is_purchased": false,
+                        "title": "The Help",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": true,
+                        "author_name": "Charan Teja",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 17,
+                        "genre": [
+                                  "Fiction",
+                                  "Sci-Fi_89W7Qxi.png"
+                                  ],
+                        "about": "Abourt",
+                        "is_purchased": false,
+                        "title": "The Winter People",
+                        "cover_image": "",
+                        "author_id": 4,
+                        "is_live": true,
+                        "author_name": "Vamshi",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 12,
+                        "genre": [
+                                  "Fiction",
+                                  "Sci-Fi_89W7Qxi.png"
+                                  ],
+                        "about": "Woods",
+                        "is_purchased": false,
+                        "title": "Watcher in the Woods",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": true,
+                        "author_name": "Charan Teja",
+                        "is_published": false
+                        },
+                        {
+                        "season_id": 3,
+                        "genre": [
+                                  "Fiction",
+                                  "Sci-Fi_89W7Qxi.png"
+                                  ],
+                        "about": "Season About",
+                        "is_purchased": false,
+                        "title": "World war Z",
+                        "cover_image": "",
+                        "author_id": 1,
+                        "is_live": false,
+                        "author_name": "Charan Teja",
+                        "is_published": true
+                        }
+                        ],
+    "Author : Charan Teja": [
+                             {
+                             "season_id": 8,
+                             "genre": [
+                                       "History",
+                                       "2767052_S8X6rv8.jpg"
+                                       ],
+                             "about": "About",
+                             "is_purchased": false,
+                             "title": "Amazon Adventure",
+                             "cover_image": "",
+                             "author_id": 1,
+                             "is_live": true,
+                             "author_name": "Charan Teja",
+                             "is_published": false
+                             },
+                             {
+                             "season_id": 5,
+                             "genre": [
+                                       "Fiction",
+                                       "Sci-Fi_89W7Qxi.png"
+                                       ],
+                             "about": "About",
+                             "is_purchased": false,
+                             "title": "Divergent",
+                             "cover_image": "",
+                             "author_id": 1,
+                             "is_live": true,
+                             "author_name": "Charan Teja",
+                             "is_published": false
+                             },
+                             {
+                             "season_id": 1,
+                             "genre": [
+                                       "Mystery",
+                                       "mystery.JPG"
+                                       ],
+                             "about": "About Season",
+                             "is_purchased": true,
+                             "title": "Harry Potter",
+                             "cover_image": "",
+                             "author_id": 1,
+                             "is_live": false,
+                             "author_name": "Charan Teja",
+                             "is_published": true
+                             },
+                             {
+                             "season_id": 6,
+                             "genre": [
+                                       "Mystery",
+                                       "mystery.JPG"
+                                       ],
+                             "about": "About",
+                             "is_purchased": false,
+                             "title": "Lord of the Rings",
+                             "cover_image": "",
+                             "author_id": 1,
+                             "is_live": true,
+                             "author_name": "Charan Teja",
+                             "is_published": false
+                             },
+                             {
+                             "season_id": 13,
+                             "genre": [
+                                       "Drama",
+                                       "2657_xZ32WJE.jpg"
+                                       ],
+                             "about": "CAR OR BAR???",
+                             "is_purchased": false,
+                             "title": "Rooms",
+                             "cover_image": "",
+                             "author_id": 1,
+                             "is_live": false,
+                             "author_name": "Charan Teja",
+                             "is_published": true
+                             },
+                             {
+                             "season_id": 9,
+                             "genre": [
+                                       "Action",
+                                       "Action_pbHLdKT.png"
+                                       ],
+                             "about": "Season",
+                             "is_purchased": false,
+                             "title": "The Book of Wonders",
+                             "cover_image": "",
+                             "author_id": 1,
+                             "is_live": true,
+                             "author_name": "Charan Teja",
+                             "is_published": false
+                             },
+                             {
+                             "season_id": 2,
+                             "genre": [
+                                       "Mystery",
+                                       "mystery.JPG"
+                                       ],
+                             "about": "About the Season of Random guy",
+                             "is_purchased": false,
+                             "title": "The DaVinci Code",
+                             "cover_image": "",
+                             "author_id": 1,
+                             "is_live": false,
+                             "author_name": "Charan Teja",
+                             "is_published": true
+                             },
+                             {
+                             "season_id": 10,
+                             "genre": [
+                                       "History",
+                                       "2767052_S8X6rv8.jpg"
+                                       ],
+                             "about": "Hello hi, this a random text about the season. some random text. sdfasd sadfsadf sdafsadf",
+                             "is_purchased": false,
+                             "title": "The End of Infinity",
+                             "cover_image": "",
+                             "author_id": 1,
+                             "is_live": true,
+                             "author_name": "Charan Teja",
+                             "is_published": false
+                             },
+                             {
+                             "season_id": 4,
+                             "genre": [
+                                       "Mystery",
+                                       "mystery.JPG"
+                                       ],
+                             "about": "About",
+                             "is_purchased": false,
+                             "title": "The Help",
+                             "cover_image": "",
+                             "author_id": 1,
+                             "is_live": true,
+                             "author_name": "Charan Teja",
+                             "is_published": false
+                             },
+                             {
+                             "season_id": 7,
+                             "genre": [
+                                       "Drama",
+                                       "2657_xZ32WJE.jpg"
+                                       ],
+                             "about": "Season",
+                             "is_purchased": false,
+                             "title": "The Screaming Staircase",
+                             "cover_image": "",
+                             "author_id": 1,
+                             "is_live": true,
+                             "author_name": "Charan Teja",
+                             "is_published": false
+                             },
+                             {
+                             "season_id": 12,
+                             "genre": [
+                                       "Fiction",
+                                       "Sci-Fi_89W7Qxi.png"
+                                       ],
+                             "about": "Woods",
+                             "is_purchased": false,
+                             "title": "Watcher in the Woods",
+                             "cover_image": "",
+                             "author_id": 1,
+                             "is_live": true,
+                             "author_name": "Charan Teja",
+                             "is_published": false
+                             },
+                             {
+                             "season_id": 3,
+                             "genre": [
+                                       "Fiction",
+                                       "Sci-Fi_89W7Qxi.png"
+                                       ],
+                             "about": "Season About",
+                             "is_purchased": false,
+                             "title": "World war Z",
+                             "cover_image": "",
+                             "author_id": 1,
+                             "is_live": false,
+                             "author_name": "Charan Teja",
+                             "is_published": true
+                             }
+                             ]
+}

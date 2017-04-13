@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12118" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="rOd-4z-yZF">
+    <device id="retina5_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12086"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--2DUICollectionView-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="_DUICollectionView" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="6Gi-eb-8j9">
+                                <rect key="frame" x="0.0" y="20" width="414" height="716"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="p7N-nW-bnw">
+                                    <size key="itemSize" width="406" height="220"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="Cell" id="eMT-aA-tDW" customClass="BookStoreCollectionViewCell" customModule="_DUICollectionView" customModuleProvider="target">
+                                        <rect key="frame" x="4" y="0.0" width="406" height="220"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                                            <rect key="frame" x="0.0" y="0.0" width="406" height="220"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Nl3-1k-hvC">
+                                                    <rect key="frame" x="0.0" y="0.0" width="406" height="220"/>
+                                                </scrollView>
+                                            </subviews>
+                                        </view>
+                                        <constraints>
+                                            <constraint firstItem="Nl3-1k-hvC" firstAttribute="top" secondItem="eMT-aA-tDW" secondAttribute="top" id="2Tw-Gf-A4F"/>
+                                            <constraint firstItem="Nl3-1k-hvC" firstAttribute="leading" secondItem="eMT-aA-tDW" secondAttribute="leading" id="62K-hF-NnB"/>
+                                            <constraint firstAttribute="trailing" secondItem="Nl3-1k-hvC" secondAttribute="trailing" id="FW6-69-h96"/>
+                                            <constraint firstAttribute="bottom" secondItem="Nl3-1k-hvC" secondAttribute="bottom" id="Ja8-UN-HMR"/>
+                                        </constraints>
+                                        <size key="customSize" width="406" height="220"/>
+                                        <connections>
+                                            <outlet property="collectionScroll" destination="Nl3-1k-hvC" id="kWx-yC-TBe"/>
+                                        </connections>
+                                    </collectionViewCell>
+                                </cells>
+                            </collectionView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="6Gi-eb-8j9" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="CIK-I6-vNu"/>
+                            <constraint firstAttribute="trailing" secondItem="6Gi-eb-8j9" secondAttribute="trailing" id="Jbc-Sz-0wD"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="6Gi-eb-8j9" secondAttribute="bottom" id="dDU-de-OQ3"/>
+                            <constraint firstItem="6Gi-eb-8j9" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" constant="20" id="eeq-Tg-9AB"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" title="2DUICollectionView" id="zsC-QP-ZND"/>
+                    <connections>
+                        <outlet property="myCollectionView" destination="6Gi-eb-8j9" id="60m-CL-KMo"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1113.0434782608697" y="169.56521739130437"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="FKn-VI-iaH">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="rOd-4z-yZF" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="TTC-lJ-e40">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="hvF-xZ-udV"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="nNo-62-nW4" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="297" y="171"/>
+        </scene>
+    </scenes>
+</document>
